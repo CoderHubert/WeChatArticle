@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeChatArticle</string>
+    <string name="accessibility_description">模拟点击微信文章，获取短链接</string>
+    <string name="action_tips">
+        提示：\n
+        项目功能: 模拟点击微信文章，获取短链接 \n
+        开发环境: 小米5s、微信6.6.3(因为混淆的原因，每个版本的view id不一致) \n
+        前置操作：\n
+        \t1. 模拟操作权限打开。\n
+        \t2. 按菜单键，在弹出的后台程序管理窗口中给本应用加锁。\n
+        \t3. 进入某个聊天界面，发送链接给它即可。
+    </string>
+</resources>
